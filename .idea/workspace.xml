@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2979847f-290b-4bf6-9069-ca3bd56b140c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/16_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/17_Enumerador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/18_Zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/19_Min_Max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/20_Random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/15_Control_de_flujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/15_Control_de_flujo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/diccionarios.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/lists.py" beforeDir="false" />
-    </list>
+    <list default="true" id="2979847f-290b-4bf6-9069-ca3bd56b140c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
