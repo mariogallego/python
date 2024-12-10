@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2979847f-290b-4bf6-9069-ca3bd56b140c" name="Changes" comment="" />
+    <list default="true" id="2979847f-290b-4bf6-9069-ca3bd56b140c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/16_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/17_Enumerador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/18_Zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/19_Min_Max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/20_Random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/15_Control_de_flujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/15_Control_de_flujo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/diccionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/lists.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +32,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ptpThGEAlctBzI5ATSATKPQ0U7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,9 +45,15 @@
   "keyToString": {
     "Python.13_Operadores_de_comparacion.executor": "Run",
     "Python.14_Operadores_logicos.executor": "Run",
+    "Python.17_Enumerador.executor": "Run",
+    "Python.18_Zip.executor": "Run",
+    "Python.19_Min_Max.executor": "Run",
     "Python.1_Cast.executor": "Run",
+    "Python.20_Random.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mariogal/python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -44,10 +62,34 @@
       <recent name="C:\Users\Mario\PycharmProjects\python\Python" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="1_Cast" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/1_Cast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>

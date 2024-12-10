@@ -106,7 +106,6 @@ else:
     print(f"El color {color} no está en la lista")
 
 
-# 5.2. Comprobación en diccionarios
 
 
 
