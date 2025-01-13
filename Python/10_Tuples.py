@@ -4,6 +4,9 @@
 # Una vez creada una tupla, sus elementos no pueden modificarse (ni añadirse, ni eliminarse).
 # Son ideales para representar datos que no deben cambiar durante la ejecución del programa.
 
+tupla = (1, 2, 3)
+print(tupla)
+
 # Características principales
 # Inmutables: No se pueden modificar después de su creación.
 # Ordenadas: Los elementos tienen un orden fijo.
